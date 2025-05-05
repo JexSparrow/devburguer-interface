@@ -44,11 +44,11 @@ Essa estrutura permite que nossa aplicação seja bem organizada, seguindo boas 
 
 <b>Na parte do back-end foi criado um CRUD, para o cadastro de usuario.
 
-Utilizei o <i>Node.js, Express, Sequelize </i> para conectar ao banco de dados MongoDB, facilitando a comunicação com os dados, tornando as consultas mais seguras e performáticas, tambem utilizei o bcrypt para encriptar as senhas o jwt para autenticação e acesso mais seguro as rotas.
+Utilizei o <i>Node.js, Express, Sequelize </i> para conectar ao banco de dados <i>MongoDB</i>, facilitando a comunicação com os dados, tornando as consultas mais seguras e performáticas, tambem utilizei o <i>bcrypt</i> para encriptar as senhas o <i>jwt</i> para autenticação e acesso mais seguro as rotas.
 
-No Front-end utilizei o react+vite para criar a aplicação, com o objetivo de praticar a integração de algumas bibliotecas muito usadas. 
+No Front-end utilizei o <i>React+Vite<</i> para criar a aplicação, com o objetivo de praticar a integração de algumas bibliotecas muito utilizadas. 
 
-Para estilização dos componentes, utilizei o styled-components, o que me permitiu criar uma interface moderna e responsiva diretamente no JavaScript. Também uso o Axios para fazer a comunicação com a API, enviando as informações de login de forma simples e segura. 
+Para estilização dos componentes, utilizei o <i>Styled-Components</i>, o que me permitiu criar uma interface moderna e responsiva diretamente no <i>JavaScript</i>. Também foi utilizado o <i>Axios</i> para fazer a comunicação com a API, enviando as informações de login de forma simples e segura. 
 
-Para a navegação entre as páginas, implementei o React Router DOM, permitindo o redirecionamento automático após o login.</b>
+Para a navegação entre as páginas, implementei o <i>React Router DOM</i>, permitindo o redirecionamento automático após o Login.</b>
 
