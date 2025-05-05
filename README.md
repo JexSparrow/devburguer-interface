@@ -44,7 +44,7 @@ Essa estrutura permite que nossa aplicação seja bem organizada, seguindo boas 
 
 <b>Na parte do back-end foi criado um CRUD, para o cadastro de usuario.
 
-Utilizei o node.js, express, Sequelize para conectar ao banco de dados MongoDB, facilitando a comunicação com os dados, tornando as consultas mais seguras e performáticas, tambem utilizei o bcrypt para encriptar as senhas o jwt para autenticação e acesso mais seguro as rotas.
+Utilizei o <i>Node.js, Express, Sequelize </i> para conectar ao banco de dados MongoDB, facilitando a comunicação com os dados, tornando as consultas mais seguras e performáticas, tambem utilizei o bcrypt para encriptar as senhas o jwt para autenticação e acesso mais seguro as rotas.
 
 No Front-end utilizei o react+vite para criar a aplicação, com o objetivo de praticar a integração de algumas bibliotecas muito usadas. 
 
