@@ -33,7 +33,10 @@ Essa estrutura permite que nossa aplicação seja bem organizada, seguindo boas 
 <h2>Em resumo, este backend MVC é a base sólida e organizada que sua hamburgueria online precisa para:</h2>
 
 📌 Gerenciar seu cardápio e estoque com eficiência.
+
 📌 Processar pedidos de forma rápida e segura.
+
 📌 Autenticar e gerenciar seus clientes.
+
 📌 Escalar e evoluir sua plataforma digital com facilidade.
 
