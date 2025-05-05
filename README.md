@@ -1,12 +1,39 @@
-# React + Vite
+<h1>🍔🍟 Um Restaurante Totalmente Funcional e Escalável! 🚀</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<b>A interface desse projeto é aplicação web moderna e interativa construída com React.js, utilizando:</b>
 
-Currently, two official plugins are available:
+♻️ Componentes reutilizáveis para construir a interface de forma modular.
+Hooks e Context API para gerenciar o estado e compartilhar dados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Roteamento para permitir a navegação entre diferentes seções.
 
-## Expanding the ESLint configuration
+🎨 Styled-Components para definir os estilos da aplicação.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ Vite foi utilizado como ferramenta de desenvolvimento e build.
+
+Essa estrutura permite que nossa aplicação seja bem organizada, seguindo boas práticas de desenvolvimento, o que facilitará a criação de uma experiência de usuário fluida e agradável!
+
+
+<h2>No Back-End, foi utilzado Node.js com arquitetura MVC, o que isso significa?</h2>
+
+💜 Coração da Operação (Models): Seus produtos, categorias, usuários e pedidos ganham vida aqui! Definições precisas de como os dados são armazenados e organizados, garantindo a integridade do seu cardápio digital. 
+
+📝 Ordem (Controllers): Eles orquestram todo o fluxo! Recebem os pedidos online, consultam o cardápio (Models), preparam as informações e enviam tudo de volta para o cliente. Agilidade e controle total em cada etapa! 
+
+🖥️ Vitrine Digital (Respostas da API): Embora não haja uma "tela" tradicional, as respostas JSON ricas e bem estruturadas são a vitrine que seus clientes veem no aplicativo ou site. Informações claras sobre cada item do menu! 
+
+🛣️ Conexão (Rotas): Caminhos bem definidos para cada funcionalidade! Quer listar os burgers? /burgers. Criar um pedido? /orders. Tudo organizado para uma comunicação eficiente entre o cliente e o servidor. 
+
+🛡️ Guardiões da Segurança (Middlewares): Protegendo cada etapa! Autenticação robusta para garantir a privacidade dos usuários e a segurança das transações. 
+
+🔒 Cofre de Dados (Banco de Dados + Sequelize): Seus dados mais preciosos armazenados com segurança e fácil acesso através do Sequelize, garantindo a troca de informação com o banco de dados. 
+
+<b>Estrutura MVC: Cada parte no seu devido lugar! A separação clara entre Models, View e Controllers torna o código fácil de entender, manter e expandir.</b>
+
+<h2>Em resumo, este backend MVC é a base sólida e organizada que sua hamburgueria online precisa para:</h2>
+
+📌 Gerenciar seu cardápio e estoque com eficiência.
+📌 Processar pedidos de forma rápida e segura.
+📌 Autenticar e gerenciar seus clientes.
+📌 Escalar e evoluir sua plataforma digital com facilidade.
+
