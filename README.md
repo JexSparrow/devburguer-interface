@@ -42,7 +42,7 @@ Essa estrutura permite que nossa aplicação seja bem organizada, seguindo boas 
 
 <h2>Em resumo:</h2>
 
-<b>Na parte do back-end foi criado um CRUD, para o cadastro de usuario.</b>
+<b>Na parte do back-end foi criado um CRUD, para o cadastro de usuario.
 
 Utilizei o node.js, express, Sequelize para conectar ao banco de dados MongoDB, facilitando a comunicação com os dados, tornando as consultas mais seguras e performáticas, tambem utilizei o bcrypt para encriptar as senhas o jwt para autenticação e acesso mais seguro as rotas.
 
@@ -50,5 +50,5 @@ No Front-end utilizei o react+vite para criar a aplicação, com o objetivo de p
 
 Para estilização dos componentes, utilizei o styled-components, o que me permitiu criar uma interface moderna e responsiva diretamente no JavaScript. Também uso o Axios para fazer a comunicação com a API, enviando as informações de login de forma simples e segura. 
 
-Para a navegação entre as páginas, implementei o React Router DOM, permitindo o redirecionamento automático após o login.
+Para a navegação entre as páginas, implementei o React Router DOM, permitindo o redirecionamento automático após o login.</b>
 
