@@ -113,7 +113,7 @@ Para a navegação entre as páginas, implementei o <i>React Router DOM</i>, per
 
 <h2>Contêiner Docker</h2>
 
-![Captura de tela 2025-05-05 203818](https://github.com/user-attachments/assets/efa7f397-20f3-4d6a-9ae3-c3f4e7a39e26)
+![Captura de tela 2025-05-05 203818](https://github.com/user-attachments/assets/15ae57d0-52a8-4777-9741-82e3b60de759)
 
 
 
