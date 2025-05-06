@@ -96,9 +96,20 @@ Para a navegação entre as páginas, implementei o <i>React Router DOM</i>, per
 
 ![Captura de tela 2025-05-05 204209](https://github.com/user-attachments/assets/c5f3bc56-5eaa-453d-b548-4b59ae5749f1)
 
+<h2>Painel Admin</h2>
 
+⚙️ Somente usuários Admin tem acesso a essa página! Ao realizar login, é redirecionado automaticamente.
 
+📌 Podemos ver o histórico de todos os pedidos, inclusive mudar o status de cada um.
 
+📌 Editar os Produtos.
+
+📌 Adicionar Novos Items ao Cardápio.
+
+![Captura de tela 2025-05-05 203952](https://github.com/user-attachments/assets/a4629a32-707f-4d49-affd-135e7dc3dd58)
+![Captura de tela 2025-05-05 204022](https://github.com/user-attachments/assets/87b000dd-d06b-463a-b9a1-1aca6bd607f6)
+![Captura de tela 2025-05-05 204042](https://github.com/user-attachments/assets/f3647265-75d8-48f9-aff3-3a55f58e6321)
+![Captura de tela 2025-05-05 204057](https://github.com/user-attachments/assets/1cec2d23-d944-475c-8dd9-e7252b7850a0)
 
 
 
