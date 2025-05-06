@@ -52,3 +52,26 @@ Para estilização dos componentes, utilizei o <i>Styled-Components</i>, o que m
 
 Para a navegação entre as páginas, implementei o <i>React Router DOM</i>, permitindo o redirecionamento automático após o Login.</b>
 
+<h2>Tela de Cadastro de Usuários</h2>
+
+![Captura de tela 2025-05-05 202840](https://github.com/user-attachments/assets/e7138105-dc14-455f-a11b-f3a9bb392e72)
+
+<h2>Tela de Login</h2>
+
+![Captura de tela 2025-05-05 202915](https://github.com/user-attachments/assets/3cb32506-68d8-4b22-aba3-a8f823a9b94a)
+
+<h2>Menu Principal</h2>
+
+📌 Header com links do Cardápio, Carrinho e Logout.
+📌 Carrosel de Categorias e Ofertas do Dia!
+
+![Captura de tela 2025-05-05 203011](https://github.com/user-attachments/assets/7e197cb6-77e4-4284-ad38-abf71e6c9511)
+![Captura de tela 2025-05-05 203033](https://github.com/user-attachments/assets/d952deb8-de93-4ccb-8368-7cbe46db9dfe)
+
+
+
+
+
+
+
+
