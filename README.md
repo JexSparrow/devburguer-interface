@@ -63,10 +63,20 @@ Para a navegação entre as páginas, implementei o <i>React Router DOM</i>, per
 <h2>Menu Principal</h2>
 
 📌 Header com links do Cardápio, Carrinho e Logout.
+
 📌 Carrosel de Categorias e Ofertas do Dia!
 
 ![Captura de tela 2025-05-05 203011](https://github.com/user-attachments/assets/7e197cb6-77e4-4284-ad38-abf71e6c9511)
 ![Captura de tela 2025-05-05 203033](https://github.com/user-attachments/assets/d952deb8-de93-4ccb-8368-7cbe46db9dfe)
+
+<h2>Cardápio</h2>
+
+📌 Lista de Categorias de Produtos: Todos, Entradas, Hambúrgueres, Bebidas e Sobremesas.
+📌 Ao clicar no botão de compra é gerado um alerta Toast! Deixando a experiência do usuário mais satisfatória e intuitiva.
+
+![Captura de tela 2025-05-05 203150](https://github.com/user-attachments/assets/7a56b3fb-c085-4dab-83d6-8e7456a43eb8)
+![Captura de tela 2025-05-05 203215](https://github.com/user-attachments/assets/1e1caf73-7b87-4c44-93b6-038f0dd1c324)
+![Captura de tela 2025-05-05 203401](https://github.com/user-attachments/assets/eac716fa-22ac-4a1a-b414-0460d356046a)
 
 
 
