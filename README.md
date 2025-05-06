@@ -72,11 +72,30 @@ Para a navegação entre as páginas, implementei o <i>React Router DOM</i>, per
 <h2>Cardápio</h2>
 
 📌 Lista de Categorias de Produtos: Todos, Entradas, Hambúrgueres, Bebidas e Sobremesas.
+
 📌 Ao clicar no botão de compra é gerado um alerta Toast! Deixando a experiência do usuário mais satisfatória e intuitiva.
 
 ![Captura de tela 2025-05-05 203150](https://github.com/user-attachments/assets/7a56b3fb-c085-4dab-83d6-8e7456a43eb8)
 ![Captura de tela 2025-05-05 203215](https://github.com/user-attachments/assets/1e1caf73-7b87-4c44-93b6-038f0dd1c324)
 ![Captura de tela 2025-05-05 203401](https://github.com/user-attachments/assets/eac716fa-22ac-4a1a-b414-0460d356046a)
+
+<h2>Carrinho</h2>
+
+📌 Podemos ver um resumo de todos os items do pedido. Inclusive aumentar/reduzir a quantidade, excluir os items, ver o total do pedido.
+
+📌 Aumentar/Reduzir a quantidade, excluir os items e ver o total do pedido.
+
+📌 Ao finalizar a compra o pedido é enviado para o Banco de Dados MongoDB, com todas as informações necessárias.
+
+
+![Captura de tela 2025-05-05 203515](https://github.com/user-attachments/assets/05dac09e-94f5-406d-bbc1-22f1f268cd5a)
+
+![Captura de tela 2025-05-05 203546](https://github.com/user-attachments/assets/cad2ede9-5d81-4485-a1ab-19f8676f9775)
+
+![Captura de tela 2025-05-05 204209](https://github.com/user-attachments/assets/c5f3bc56-5eaa-453d-b548-4b59ae5749f1)
+
+
+
 
 
 
